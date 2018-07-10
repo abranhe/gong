@@ -1,8 +1,14 @@
-[![Carlos Abraham Logo](https://avatars3.githubusercontent.com/u/21347264?s=50&v=4)](https://19cah.com)
+<p align="center">
+  	<img src="https://cdn.abraham.gq/projects/gong/gong.svg" width="200px">
+</p>
 
+<i align="center">
+  
 # GONG
 
 > Release gem packages on Github never had been easier
+
+</i>
 
 <!-- Badges -->
 [![Patreon][patreon]](https://www.patreon.com/19cah)
@@ -41,6 +47,14 @@ Examples
  $ gong 2.3.0
  $ gong 1.0.3-beta.2 --tag=beta
 ```
+
+# Author
+
+
+
+|[![Carlos Abraham Logo](https://avatars3.githubusercontent.com/u/21347264?s=50&v=4)](https://19cah.com)|
+| - |
+| [Carlos Abraham](https://github.com/19cah) |
 
 
 # Related
