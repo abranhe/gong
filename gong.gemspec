@@ -44,7 +44,7 @@ Gem::Specification.new do |s|
   # = MANIFEST =
   s.files = %w[
     Rakefile
-    bin/gong.sh
+    bin/gong
     gong.gemspec
     lib/gong.rb
   ]
