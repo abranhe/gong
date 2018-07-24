@@ -11,10 +11,10 @@
 </i>
 
 <!-- Badges -->
-[![Patreon][patreon]](https://www.patreon.com/19cah)
-[![Cash Me][cash-me]](https://cash.me/$19cah)
-[![19cah](https://19cah.com/badge.svg)](https://github.com/19cah)
-[![license](https://img.shields.io/github/license/19cah/gong.svg)](https://github.com/19cah/gong/blob/master/LICENSE)
+[![Patreon][patreon]](https://www.patreon.com/abranhe)
+[![Cash Me][cash-me]](https://cash.me/$abranhe)
+[![abranhe](https://abranhe.com/badge.svg)](https://github.com/abranhe)
+[![license](https://img.shields.io/github/license/abranhe/gong.svg)](https://github.com/abranhe/gong/blob/master/LICENSE)
 <!-- Badges -->
 
 # Installation
@@ -34,7 +34,7 @@ Usage
  $ gong <version>
 
  Version can be:
-	 patch | minor | major | prepatch | preminor | premajor | prerelease | 1.2.3
+	 patch | minor | major 
 
 Options
  --clean       Allow publishing from any branch
@@ -52,18 +52,18 @@ Examples
 
 
 
-|[![Carlos Abraham Logo](https://avatars3.githubusercontent.com/u/21347264?s=50&v=4)](https://19cah.com)|
+|[![Carlos Abraham Logo](https://avatars3.githubusercontent.com/u/21347264?s=50&v=4)](https://abranhe.com)|
 | - |
-| [Carlos Abraham](https://github.com/19cah) |
+| [Carlos Abraham](https://github.com/abranhe) |
 
 
 # Related
 
-[**github-npm** ](https://github.com/19cah/github-npm): Github NPM: Release NPM packages easier on Github.
+[**github-npm** ](https://github.com/abranhe/github-npm): Github NPM: Release NPM packages easier on Github.
 
 # License
 
-[MIT](https://github.com/19cah/gong/blob/master/LICENSE) License © [Carlos Abraham](https://github.com/19cah)
+[MIT](https://github.com/abranhe/gong/blob/master/LICENSE) License © [Carlos Abraham](https://github.com/abranhe)
 
 
 [cash-me]: https://cdn.abraham.gq/badges/cash-me.svg
